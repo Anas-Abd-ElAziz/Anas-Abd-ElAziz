@@ -85,7 +85,7 @@ Voice Pipelines · Multi-Agent Orchestration · RAG Systems · CI/CD · Docker
 | **RAG & Retrieval** | Supabase Vector DB, custom chunking, embedding pipelines |
 | **Automation** | n8n, API integrations |
 | **Databases** | MSSQL Server, Supabase, Vector DBs |
-| **Deployment** | Docker, GitHub Actions, Flask, Streamlit |
+| **Deployment** | Docker, GitHub Actions, Flask, FastAPI, Streamlit, AWS |
 | **Data** | Pandas, NumPy, Plotly, Matplotlib, Seaborn |
 
 </div>
@@ -96,8 +96,9 @@ Voice Pipelines · Multi-Agent Orchestration · RAG Systems · CI/CD · Docker
 
 <div align="center">
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas-Abd-ElAziz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Abd-ElAziz&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anas-Abd-ElAziz&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Abd-ElAziz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400)
 
 </div>
 
