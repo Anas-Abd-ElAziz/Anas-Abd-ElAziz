@@ -98,7 +98,7 @@ Voice Pipelines · Multi-Agent Orchestration · RAG Systems · CI/CD · Docker
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anas-Abd-ElAziz&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Abd-ElAziz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anas-Abd-ElAziz&theme=tokyonight)
 
 </div>
 
