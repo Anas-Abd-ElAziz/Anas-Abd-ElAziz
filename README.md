@@ -5,7 +5,6 @@
 ### AI Engineer · Production LLM Systems · Voice Agents · RAG · Multi-Agent Workflows
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-abd-el-aziz-22a277218/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Abd-ElAziz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anas.abdelaziz.dev@gmail.com)
 
 </div>
@@ -38,15 +37,6 @@ I care about **reliability, performance, and building things that actually work 
 - Stateful multi-step agent workflows using **LangGraph** with tool execution + memory
 - Code validation, parsing, and runtime safeguards to reduce execution failures
 - FastAPI backend for real-time interaction + Streamlit interface with visualization
-
----
-
-### 📚 AI-Powered Educational Automation Platform *(Private)*
-> End-to-end AI system processing **2,000+ pages** using OCR + vision models.
-
-- Multimodal RAG pipeline with custom chunking and metadata tagging
-- Multi-agent system for personalized learning and adaptive feedback
-- Full content pipeline automated using **n8n** workflows
 
 ---
 
