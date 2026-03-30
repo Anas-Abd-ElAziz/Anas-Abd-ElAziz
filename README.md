@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Anas 👋
+# Anas Abd El-Aziz
 
-### AI Engineer · Multi-Agent Systems · Computer Vision · Data Science
+### AI Engineer · Production LLM Systems · Voice Agents · RAG · Multi-Agent Workflows
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-abd-el-aziz-22a277218/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Abd-ElAziz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anas.abdelaziz.dev@gmail.com)
 
 </div>
 
@@ -13,82 +14,94 @@
 
 ## 🧠 About Me
 
-I'm an AI Engineer passionate about building intelligent systems that actually work in the real world. I specialize in **multi-agent architectures**, **agentic workflows**, and **computer vision** — from designing LLM pipelines to deploying real-time anomaly detection systems.
+AI Engineer specializing in **production LLM systems** — voice agents, multi-agent workflows, and RAG platforms. I've shipped a sub-second latency AI call center, an LLM agent handling 100K+ row datasets, and a document intelligence platform processing 2,000+ pages.
 
-- 🤖 Building with **LangChain**, **LangGraph**, and **multi-agent frameworks**
-- 🔍 Interested in **agentic AI**, **RAG pipelines**, and **AI system design**
-- 📊 Strong background in **data science** and **machine learning**
-- 🛠️ Turning complex AI research into working, deployable systems
+I care about **reliability, performance, and building things that actually work in production.**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 [AI Call Center](https://github.com/Anas-Abd-ElAziz/AI-Call-Center)
-> A fully autonomous AI call center with multiple specialized agents handling different tasks and maintaining coherent call structure.
-- Multi-agent orchestration with task delegation
-- Structured conversation flow management
-- Built with Python
+### 📞 [Real-Time AI Voice Call Center](https://github.com/Anas-Abd-ElAziz/AI-Call-Center)
+> Multi-agent voice AI system (STT → LLM → TTS) achieving **sub-second latency** in live conversations.
+
+- Dynamic agent routing architecture with specialized agents per call scenario
+- Production monitoring via AWS CloudWatch (latency, token usage, performance)
+- Automated call workflows — logging, analytics, email notifications
+- Deployed with Docker + CI/CD (GitHub Actions)
 
 ---
 
-### 🔬 [Data Science Agent](https://github.com/Anas-Abd-ElAziz/Data-science-agent)
-> An intelligent data science agent that can reason over datasets, generate insights, and execute analysis autonomously.
-- Powered by **LangChain** and **LangGraph**
-- Agentic reasoning over structured data
+### 🔬 [LLM-Powered Data Analysis Agent](https://github.com/Anas-Abd-ElAziz/Data-science-agent)
+> LLM agent capable of analyzing large datasets (**100K+ rows**) with dynamic Python execution.
+
+- Stateful multi-step agent workflows using **LangGraph** with tool execution + memory
+- Code validation, parsing, and runtime safeguards to reduce execution failures
+- FastAPI backend for real-time interaction + Streamlit interface with visualization
 
 ---
 
-### 📹 [Realtime Anomaly Detection](https://github.com/Anas-Abd-ElAziz/Realtime-Anomaly-Detection)
-> A real-time smart surveillance system that assists operators by detecting anomalies and unusual events in live video feeds.
-- Computer vision with real-time inference
-- Built for practical deployment scenarios
+### 📚 AI-Powered Educational Automation Platform *(Private)*
+> End-to-end AI system processing **2,000+ pages** using OCR + vision models.
+
+- Multimodal RAG pipeline with custom chunking and metadata tagging
+- Multi-agent system for personalized learning and adaptive feedback
+- Full content pipeline automated using **n8n** workflows
+
+---
+
+### 📹 [Real-Time Anomaly Detection](https://github.com/Anas-Abd-ElAziz/Realtime-Anomaly-Detection) *(Graduation Project)*
+> Smart surveillance system achieving **95.6% AUC** on anomaly detection benchmarks.
+
+- Real-time video streams from **6 concurrent cameras** with optimized GPU inference (GTX 1660)
+- Automated alerting system for real-time anomaly events
+- Delivered with research paper, technical documentation, and demo
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & ML**
+**AI & LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6DB33F?style=flat-square&logoColor=white)
+
+**Programming & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**ML Frameworks**
+**ML & Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Tools & Infra**
+**Infra & MLOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anas-Abd-ElAziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Abd-ElAziz&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
-## 💬 Let's Connect
+## 🎓 Education
 
-I'm always open to collaborating on interesting AI projects, discussing multi-agent systems, or just talking shop. Feel free to reach out!
+**B.Sc. Computer Science** — Ain Shams University, Cairo *(2019 – 2023)*
+Graduation Project: Real-Time Video Anomaly Detection · 95.6% AUC
+
+---
 
 <div align="center">
 
-*"Building the systems that make AI actually useful."*
+*"Building the systems that make AI actually useful — in production."*
 
 </div>
